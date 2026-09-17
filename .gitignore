@@ -147,6 +147,10 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Local planning docs (not part of the repo)
+plan.md
+cursor_plan.md
+
 # Environments
 .env
 .envrc
